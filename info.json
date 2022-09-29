@@ -1,0 +1,10 @@
+{
+    "frps": {
+        "token": "5183d9d9f0b944c99cd50c2f17bfbd05"
+    },
+    "v2fly": {
+        "port": 48506,
+        "id": "3aebf819-032c-49e7-8cd2-9e6f49a680d7",
+        "path": "/68e8ee7fb51-vless"
+    }
+}
